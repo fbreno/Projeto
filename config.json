@@ -1,0 +1,11 @@
+{
+    "gitlab": {
+      "url": "https://gitlab.com",
+      "token": "your_gitlab_token_here"
+    },
+    "github": {
+      "token": "your_github_token_here"
+    },
+    "service": "gitlab"
+  }
+  
